@@ -25,7 +25,7 @@ The PDM MEMS Microphone MP34DT05 breakout board is very easy to use. Simply conn
 # Resources
 [Datasheet](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf) for the MP34DT05 PDM MEMS microphone
 
-[UNIT PDM MEMS Microphone Breakout Guide](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-Breakout-Guide-UF2#readme)
+[UNIT PDM MEMS Microphone Breakout Guide UF2 "](https://github.com/UNIT-Electronics/UNIT-PDM-MEMS-Microphone-Breakout-Guide-UF2#readme)
 
 # Product Information
 
